@@ -6,7 +6,7 @@ tagline = "Import-Export for XNALara/XPS files"
 maintainer = "maylog"
 type = "add-on"
 tags = ["Import-Export", "Pipeline"]
-blender_version_min = "5.0.0"
+blender_version_min = "4.5.0"
 license = ['SPDX:GPL-3.0-or-later']
 website = "https://github.com/mayloglog/XNALaraMesh-blender4.4"
 source_repository = "https://github.com/johnzero7/XNALaraMesh"
@@ -23,6 +23,7 @@ Note: This is a community-maintained version with Blender 5.0+ compatibility.
 """
 
 credits = [
+    "2026 ShadowGamer3301 - forcing the addon to work on Blender 4.5",
     "2025 johnzero7 – original XNALaraMesh developer",
     "2025 Clothoid & original XPS Tools contributors",
     "2025 XNALara/XPS community",
