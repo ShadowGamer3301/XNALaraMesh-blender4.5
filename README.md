@@ -1,19 +1,11 @@
 XPS Tools 
 =========
 
-Fork of XNALara Mesh import/export tool with Blender 5.0 compatibility.
+## WARNING!!! THIS ADDON WAS **FORCED** TO RUN ON BLENDER 4.5. I'VE ONLY TESTED IT ON A BASIC LEVEL AND I DON'T GUARANTEE THAT ALL FEATURES WORK FLAWLESSLY
 
-Since the original author (johnzero7) has not updated the code for five years as of 2025, the old version of the plugin can no longer run on the new version of Blender. Therefore, I will maintain this version going forward.
+Fork of XNALara Mesh import/export tool with FORCED Blender 4.5 compatibility.
 
-Original addon by XNALara community.
-
-With Blender 4.40 released there where many changes.
-
-From v2.1.0 of this addon will only work with Blender 4.4.
-From v2.2.0 of this addon will only work with Blender 5.0.
-
-- Blender 5.00 ==> v2.2.0+
-- Blender 4.40 ==> v2.1.0
+Since the original author (johnzero7) has not updated the code for five years and new maintainer (mayloglog) made it compatible with Blender 5.0 onwards, I've decided to force it to work with Blender 4.5. Original addon by XNALara community.
 
 Blender Toolshelf, an addon for Blender to:
 
